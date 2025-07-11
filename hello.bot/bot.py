@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
 
 # 🔐 Replace this with your own BotFather token
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8175393588:AAHQBtIBXBWwnUZrGgNqSeGUAbCCv-stPX8"
 
 # 🟢 This function handles the /start command
 def start(update: Update, context: CallbackContext):
